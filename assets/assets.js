@@ -98,10 +98,10 @@ export const workData = [
         githubUrl: "https://github.com/SudilThathsara/SocialApp.git"
     },
     {
-        title: 'UI/UX designing',
+        title: 'My Portfolio',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
-        githubUrl: "https://github.com/yourusername/project2"
+        githubUrl: "https://github.com/SudilThathsara/portfolio.git"
     },
 ]
 
