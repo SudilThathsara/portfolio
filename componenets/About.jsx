@@ -40,7 +40,7 @@ const About = ({ isDarkMode }) => {
           transition={{ duration: 0.5 }}
           className='w-64 sm:w-80 rounded-3xl max-w-none'
         >
-          <Image src={assets.user_image} alt='user' className='w-full rounded-3xl' />
+          <Image src={assets.user_imagee} alt='user' className='w-full rounded-3xl' />
         </motion.div>
 
         {/* Right Side: Content (Text, Cards, Tools) */}
